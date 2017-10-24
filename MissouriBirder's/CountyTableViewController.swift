@@ -13,8 +13,8 @@ class CountyTableViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        self.navigationItem.title = "Counties"
-        tableView.register(CountyTableViewCell.self, forCellReuseIdentifier: "county_cell")
+//        self.navigationItem.title = "Counties"
+//        tableView.register(CountyTableViewCell.self, forCellReuseIdentifier: "county_cell")
     }
     override func viewWillAppear(_ animated:Bool){
         tableView.reloadData()

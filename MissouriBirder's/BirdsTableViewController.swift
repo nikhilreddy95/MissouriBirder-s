@@ -13,8 +13,8 @@ class BirdsTableViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.navigationItem.title = county.name
-        tableView.register(CountyTableViewCell.self, forCellReuseIdentifier: "bird_cell")
+    self.navigationItem.title = county.name
+  tableView.register(CountyTableViewCell.self, forCellReuseIdentifier: "bird_cell")
     }
     
     override func didReceiveMemoryWarning() {

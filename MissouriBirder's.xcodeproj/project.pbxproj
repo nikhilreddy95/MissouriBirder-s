@@ -17,6 +17,7 @@
 		946E0D9F1F958A6A004A84D3 /* BirdsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946E0D9E1F958A6A004A84D3 /* BirdsTableViewController.swift */; };
 		946E0DA11F958A7D004A84D3 /* BirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946E0DA01F958A7D004A84D3 /* BirdViewController.swift */; };
 		946E0DA31F958A8E004A84D3 /* BirdFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946E0DA21F958A8E004A84D3 /* BirdFile.swift */; };
+		947820EF1F9ECF74004A3E25 /* AddCountyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947820EE1F9ECF74004A3E25 /* AddCountyViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		946E0D9E1F958A6A004A84D3 /* BirdsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirdsTableViewController.swift; sourceTree = "<group>"; };
 		946E0DA01F958A7D004A84D3 /* BirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirdViewController.swift; sourceTree = "<group>"; };
 		946E0DA21F958A8E004A84D3 /* BirdFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirdFile.swift; sourceTree = "<group>"; };
+		947820EE1F9ECF74004A3E25 /* AddCountyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCountyViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				946E0D9E1F958A6A004A84D3 /* BirdsTableViewController.swift */,
 				946E0DA01F958A7D004A84D3 /* BirdViewController.swift */,
 				946E0DA21F958A8E004A84D3 /* BirdFile.swift */,
+				947820EE1F9ECF74004A3E25 /* AddCountyViewController.swift */,
 			);
 			path = "MissouriBirder's";
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 			files = (
 				946E0D8B1F958A17004A84D3 /* ViewController.swift in Sources */,
 				946E0D891F958A17004A84D3 /* AppDelegate.swift in Sources */,
+				947820EF1F9ECF74004A3E25 /* AddCountyViewController.swift in Sources */,
 				946E0D9B1F958A3C004A84D3 /* CountyTableViewCell.swift in Sources */,
 				946E0DA11F958A7D004A84D3 /* BirdViewController.swift in Sources */,
 				946E0DA31F958A8E004A84D3 /* BirdFile.swift in Sources */,
